@@ -1,5 +1,9 @@
-# SageMaker Deployment Project
+# Deploying a Sentiment Analysis Model for Movie Reviews
 
-The notebook and Python files provided here, once completed, result in a simple web app which interacts with a deployed recurrent neural network performing sentiment analysis on movie reviews. This project assumes some familiarity with SageMaker, the mini-project, Sentiment Analysis using XGBoost, should provide enough background.
+This project aims to deploy a simple web app that interacts with a deployed RNN performing sentiment analysis on movie reviews. In order to run this project you will need:
 
-Please see the [README](https://github.com/udacity/sagemaker-deployment/tree/master/README.md) in the root directory for instructions on setting up a SageMaker notebook and downloading the project files (as well as the other notebooks).
+* AWS SageMaker
+* AWS Lambda functions
+* AWS API Gateway
+
+Further instructions for setting up a SageMaker notebook and downloafing the project files can be found [here](https://github.com/udacity/sagemaker-deployment/tree/master/README.md)
